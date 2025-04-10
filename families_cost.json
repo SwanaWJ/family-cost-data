@@ -1,14 +1,14 @@
 {
-  "_last_updated": "2025-04-10 23:00:44",
-  "Matty Door, Stone Grey, 2550, Woodgrain [Doors]": {
-    "price": 2179.95,
-    "url": "https://www.cashbuild.co.za/shop/garage-doors/19785-matty-door-stone-grey-2550-woodgrain-6001216788274.html",
-    "image": "https://www.cashbuild.co.za/shop/35929-home_default/matty-door-stone-grey-2550-woodgrain.jpg"
-  },
+  "_last_updated": "2025-04-10 23:18:44",
   "Powafix White Putty Packet 500g [Doors]": {
     "price": 9.95,
     "url": "https://www.cashbuild.co.za/shop/putty/7833-powafix-white-putty-packet-6009600991002.html",
     "image": "https://www.cashbuild.co.za/shop/22659-home_default/powafix-white-putty-packet.jpg"
+  },
+  "Powafix White Putty Packet 1kg [Doors]": {
+    "price": 18.95,
+    "url": "https://www.cashbuild.co.za/shop/putty/7834-powafix-white-putty-packet-6009600992931.html",
+    "image": "https://www.cashbuild.co.za/shop/22660-home_default/powafix-white-putty-packet.jpg"
   },
   "Distribution Board PVC Flush DIN Rail 12 Way [Cement]": {
     "price": 302.95,
@@ -35,55 +35,55 @@
     "url": "https://www.cashbuild.co.za/shop/distribution-boards/11778-distribution-board-steel-surface-mount-6004830020324.html",
     "image": "https://www.cashbuild.co.za/shop/14060-home_default/distribution-board-steel-surface-mount.jpg"
   },
-  "Distribution Brd SABS 16way Flush Mount [Cement]": {
-    "price": 224.95,
-    "url": "https://www.cashbuild.co.za/shop/distribution-boards/11779-distribution-brd-sabs-16way-flush-mount-6004830264117.html",
-    "image": "https://www.cashbuild.co.za/shop/14047-home_default/distribution-brd-sabs-16way-flush-mount.jpg"
-  },
   "Surface Box Waterproof SABS 4x2 [Cement]": {
     "price": 82.95,
     "url": "https://www.cashbuild.co.za/shop/distribution-boards/11920-surface-box-waterproof-6004830834471.html",
     "image": "https://www.cashbuild.co.za/shop/14077-home_default/surface-box-waterproof.jpg"
   },
-  "Waco 8 Module Flush Distribution Board [Cement]": {
-    "price": 859.95,
-    "url": "https://www.cashbuild.co.za/shop/distribution-boards/16576-waco-8-module-flush-distribution-board-6004830839889.html",
-    "image": "https://www.cashbuild.co.za/shop/31183-home_default/waco-8-module-flush-distribution-board.jpg"
-  },
-  "Waco 8 Module Surface Distribution Board [Cement]": {
-    "price": 824.95,
-    "url": "https://www.cashbuild.co.za/shop/distribution-boards/16577-waco-8-module-surface-distribution-board-6004830839902.html",
-    "image": "https://www.cashbuild.co.za/shop/31184-home_default/waco-8-module-surface-distribution-board.jpg"
-  },
-  "Waco 12 Module Flush Distribution Board [Cement]": {
-    "price": 1099.95,
-    "url": "https://www.cashbuild.co.za/shop/distribution-boards/16578-waco-12-module-flush-distribution-board-6004830839926.html",
-    "image": "https://www.cashbuild.co.za/shop/31185-home_default/waco-12-module-flush-distribution-board.jpg"
+  "Meter Box SABS 12x12x9 [Cement]": {
+    "price": 404.95,
+    "url": "https://www.cashbuild.co.za/shop/distribution-boards/11867-meter-box-sabs-12x12x9-6004830125203.html",
+    "image": "https://www.cashbuild.co.za/shop/14075-home_default/meter-box-sabs-12x12x9.jpg"
   },
   "Distribution Board [Cement]": {
     "price": 799.95,
     "url": "https://www.cashbuild.co.za/shop/distribution-boards/3103-distribution-board-6009704776765.html",
     "image": "https://www.cashbuild.co.za/shop/32971-home_default/distribution-board.jpg"
   },
-  "Building Mix 40kg Bag [Roofing]": {
-    "price": 43.95,
-    "url": "https://www.cashbuild.co.za/shop/premix/19899-building-mix-40kg-bag.html",
-    "image": "https://www.cashbuild.co.za/shop/36248-home_default/building-mix-40kg-bag.jpg"
-  },
   "Concrete Mix 40kg Bag [Roofing]": {
-    "price": 43.95,
-    "url": "https://www.cashbuild.co.za/shop/premix/19915-concrete-mix-40kg-bag.html",
-    "image": "https://www.cashbuild.co.za/shop/36227-home_default/concrete-mix-40kg-bag.jpg"
+    "price": 72.75,
+    "url": "https://www.cashbuild.co.za/shop/premix/19912-concrete-mix-40kg-bag.html",
+    "image": "https://www.cashbuild.co.za/shop/36224-home_default/concrete-mix-40kg-bag.jpg"
+  },
+  "Building Mix 40kg Bag [Roofing]": {
+    "price": 80.88,
+    "url": "https://www.cashbuild.co.za/shop/premix/19907-building-mix-40kg-bag.html",
+    "image": "https://www.cashbuild.co.za/shop/36256-home_default/building-mix-40kg-bag.jpg"
   },
   "Plaster Mix 40kg Bag [Roofing]": {
-    "price": 43.95,
-    "url": "https://www.cashbuild.co.za/shop/premix/19930-plaster-mix-40kg-bag.html",
-    "image": "https://www.cashbuild.co.za/shop/36261-home_default/plaster-mix-40kg-bag.jpg"
+    "price": 80.88,
+    "url": "https://www.cashbuild.co.za/shop/premix/19935-plaster-mix-40kg-bag.html",
+    "image": "https://www.cashbuild.co.za/shop/36266-home_default/plaster-mix-40kg-bag.jpg"
   },
-  "Builders Blend 1/2 Cube [Roofing]": {
-    "price": 469.95,
-    "url": "https://www.cashbuild.co.za/shop/premix/19952-builders-blend-1-2-cube.html",
-    "image": "https://www.cashbuild.co.za/shop/36243-home_default/builders-blend-1-2-cube.jpg"
+  "Masonite Standard Brown 3.2mm 2.440 X 1.220 [Bricks & Blocks]": {
+    "price": 199.95,
+    "url": "https://www.cashbuild.co.za/shop/masonite/7542-masonite-standard-brown-32mm-2440-x-1220-6002202002626.html",
+    "image": "https://www.cashbuild.co.za/shop/28106-home_default/masonite-standard-brown-32mm-2440-x-1220.jpg"
+  },
+  "MDF Superwood 2.750x1.830 16mm [Bricks & Blocks]": {
+    "price": 999.95,
+    "url": "https://www.cashbuild.co.za/shop/boards-9x6-superwood/7543-mdf-super-wood-2050000022739.html",
+    "image": "https://www.cashbuild.co.za/shop/28080-home_default/mdf-super-wood.jpg"
+  },
+  "Melamine White 2.750x1.830 16mm [Bricks & Blocks]": {
+    "price": 999.95,
+    "url": "https://www.cashbuild.co.za/shop/boards-9x6-melamine/7544-melamine-white-2050000022807.html",
+    "image": "https://www.cashbuild.co.za/shop/28073-home_default/melamine-white.jpg"
+  },
+  "Soft Board Std 2.44x1.22 10mm [Bricks & Blocks]": {
+    "price": 314.95,
+    "url": "https://www.cashbuild.co.za/shop/soft-board/7562-soft-board-2050000020087.html",
+    "image": "https://www.cashbuild.co.za/shop/28098-home_default/soft-board.jpg"
   },
   "Melamine Edging White 20mm X 5m [Bricks & Blocks]": {
     "price": 28.95,
@@ -91,38 +91,18 @@
     "image": "https://www.cashbuild.co.za/shop/11873-home_default/melamine-edging-white-20mm.jpg"
   },
   "Shutterply Untreated 2.440x1.220 18mm [Bricks & Blocks]": {
-    "price": 697.95,
+    "price": 619.95,
     "url": "https://www.cashbuild.co.za/shop/shutterply/12283-shutterply-18mm-2050000014413.html",
     "image": "https://www.cashbuild.co.za/shop/28087-home_default/shutterply-18mm.jpg"
   },
-  "Masonite Standard Brown 3.2mm 2.440 X 1.220 [Bricks & Blocks]": {
-    "price": 199.95,
-    "url": "https://www.cashbuild.co.za/shop/masonite/19730-masonite-standard-brown-32mm-2440-x-1220-6002202002626.html",
-    "image": "https://www.cashbuild.co.za/shop/35812-home_default/masonite-standard-brown-32mm-2440-x-1220.jpg"
-  },
-  "Soft Board Std 2.44X1.22 12mm [Bricks & Blocks]": {
-    "price": 362.95,
-    "url": "https://www.cashbuild.co.za/shop/soft-board/19729-soft-board-std-244x122-12mm-2050000010859.html",
-    "image": "https://www.cashbuild.co.za/shop/35811-home_default/soft-board-std-244x122-12mm.jpg"
-  },
-  "Chipboard 2750X1830 16mm [Bricks & Blocks]": {
-    "price": 604.95,
-    "url": "https://www.cashbuild.co.za/shop/boards-9x6-melamine/19726-chipboard-2750x1830-16mm-2050000023279.html",
-    "image": "https://www.cashbuild.co.za/shop/35808-home_default/chipboard-2750x1830-16mm.jpg"
-  },
-  "Melamine White 2.750X1.830 16mm [Bricks & Blocks]": {
-    "price": 934.95,
-    "url": "https://www.cashbuild.co.za/shop/boards-9x6-melamine/19727-melamine-white-2750x1830-16mm-2050000022807.html",
-    "image": "https://www.cashbuild.co.za/shop/35809-home_default/melamine-white-2750x1830-16mm.jpg"
-  },
-  "Mdf Superwood 2.750X1.830 16mm [Bricks & Blocks]": {
-    "price": 924.95,
-    "url": "https://www.cashbuild.co.za/shop/boards-9x6-superwood/19728-mdf-superwood-2750x1830-16mm-2050000022739.html",
-    "image": "https://www.cashbuild.co.za/shop/35810-home_default/mdf-superwood-2750x1830-16mm.jpg"
+  "Shutterply Builders Grade 2.440X1.220X18 [Bricks & Blocks]": {
+    "price": 539.95,
+    "url": "https://www.cashbuild.co.za/shop/shutterply/20894-shutterply-builders-grade-2440x1220x18.html",
+    "image": "https://www.cashbuild.co.za/shop/img/p/en-default-home_default.jpg"
   },
   "Masonite Standard Brown 3.2mm 2.440 X 1.220 [Ceiling & Insulation]": {
     "price": 199.95,
-    "url": "https://www.cashbuild.co.za/shop/masonite/19730-masonite-standard-brown-32mm-2440-x-1220-6002202002626.html",
-    "image": "https://www.cashbuild.co.za/shop/35812-home_default/masonite-standard-brown-32mm-2440-x-1220.jpg"
+    "url": "https://www.cashbuild.co.za/shop/masonite/7542-masonite-standard-brown-32mm-2440-x-1220-6002202002626.html",
+    "image": "https://www.cashbuild.co.za/shop/28106-home_default/masonite-standard-brown-32mm-2440-x-1220.jpg"
   }
 }
