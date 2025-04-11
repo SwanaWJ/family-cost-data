@@ -1,128 +1,36 @@
 {
-  "_last_updated": "2025-04-10 23:58:42",
-  "Matty Door, Stone Grey, 2550, Woodgrain [Doors]": {
-    "price": 2179.95,
-    "url": "https://www.cashbuild.co.za/shop/garage-doors/19785-matty-door-stone-grey-2550-woodgrain-6001216788274.html",
-    "image": "https://www.cashbuild.co.za/shop/35929-home_default/matty-door-stone-grey-2550-woodgrain.jpg"
-  },
-  "Powafix White Putty Packet 500g [Doors]": {
-    "price": 9.95,
-    "url": "https://www.cashbuild.co.za/shop/putty/7833-powafix-white-putty-packet-6009600991002.html",
-    "image": "https://www.cashbuild.co.za/shop/22659-home_default/powafix-white-putty-packet.jpg"
-  },
-  "Distribution Board PVC Flush DIN Rail 12 Way [Cement]": {
-    "price": 302.95,
-    "url": "https://www.cashbuild.co.za/shop/distribution-boards/698-distribution-board-pvc-flush-din-rail-12-way-6005710021158.html",
-    "image": "https://www.cashbuild.co.za/shop/14036-home_default/distribution-board-pvc-flush-din-rail-12-way.jpg"
-  },
-  "Distribution Board PVC Flush DIN Rail 8 Way [Cement]": {
-    "price": 267.95,
-    "url": "https://www.cashbuild.co.za/shop/distribution-boards/699-distribution-board-pvc-flush-din-rail-8-way-6005710021141.html",
-    "image": "https://www.cashbuild.co.za/shop/14035-home_default/distribution-board-pvc-flush-din-rail-8-way.jpg"
-  },
-  "Distribution Board PVC Surface DIN Rail 8 Way [Cement]": {
-    "price": 269.95,
-    "url": "https://www.cashbuild.co.za/shop/distribution-boards/700-distribution-board-pvc-surface-din-rail-8-way-6005710021165.html",
-    "image": "https://www.cashbuild.co.za/shop/14049-home_default/distribution-board-pvc-surface-din-rail-8-way.jpg"
-  },
-  "Distribution Board Steel Flush Mount [Cement]": {
-    "price": 272.95,
-    "url": "https://www.cashbuild.co.za/shop/distribution-boards/11775-distribution-board-steel-flush-mount-6004830264124.html",
-    "image": "https://www.cashbuild.co.za/shop/14048-home_default/distribution-board-steel-flush-mount.jpg"
-  },
-  "Distribution Board Steel Surface Mount [Cement]": {
-    "price": 142.95,
-    "url": "https://www.cashbuild.co.za/shop/distribution-boards/11778-distribution-board-steel-surface-mount-6004830020324.html",
-    "image": "https://www.cashbuild.co.za/shop/14060-home_default/distribution-board-steel-surface-mount.jpg"
-  },
-  "Distribution Brd SABS 16way Flush Mount [Cement]": {
-    "price": 224.95,
-    "url": "https://www.cashbuild.co.za/shop/distribution-boards/11779-distribution-brd-sabs-16way-flush-mount-6004830264117.html",
-    "image": "https://www.cashbuild.co.za/shop/14047-home_default/distribution-brd-sabs-16way-flush-mount.jpg"
-  },
-  "Surface Box Waterproof SABS 4x2 [Cement]": {
-    "price": 82.95,
-    "url": "https://www.cashbuild.co.za/shop/distribution-boards/11920-surface-box-waterproof-6004830834471.html",
-    "image": "https://www.cashbuild.co.za/shop/14077-home_default/surface-box-waterproof.jpg"
-  },
-  "Waco 8 Module Flush Distribution Board [Cement]": {
-    "price": 859.95,
-    "url": "https://www.cashbuild.co.za/shop/distribution-boards/16576-waco-8-module-flush-distribution-board-6004830839889.html",
-    "image": "https://www.cashbuild.co.za/shop/31183-home_default/waco-8-module-flush-distribution-board.jpg"
-  },
-  "Waco 8 Module Surface Distribution Board [Cement]": {
-    "price": 824.95,
-    "url": "https://www.cashbuild.co.za/shop/distribution-boards/16577-waco-8-module-surface-distribution-board-6004830839902.html",
-    "image": "https://www.cashbuild.co.za/shop/31184-home_default/waco-8-module-surface-distribution-board.jpg"
-  },
-  "Waco 12 Module Flush Distribution Board [Cement]": {
-    "price": 1099.95,
-    "url": "https://www.cashbuild.co.za/shop/distribution-boards/16578-waco-12-module-flush-distribution-board-6004830839926.html",
-    "image": "https://www.cashbuild.co.za/shop/31185-home_default/waco-12-module-flush-distribution-board.jpg"
-  },
-  "Distribution Board [Cement]": {
-    "price": 799.95,
-    "url": "https://www.cashbuild.co.za/shop/distribution-boards/3103-distribution-board-6009704776765.html",
-    "image": "https://www.cashbuild.co.za/shop/32971-home_default/distribution-board.jpg"
-  },
-  "Building Mix 40kg Bag [Roofing]": {
-    "price": 43.95,
-    "url": "https://www.cashbuild.co.za/shop/premix/19899-building-mix-40kg-bag.html",
-    "image": "https://www.cashbuild.co.za/shop/36248-home_default/building-mix-40kg-bag.jpg"
-  },
-  "Concrete Mix 40kg Bag [Roofing]": {
-    "price": 43.95,
-    "url": "https://www.cashbuild.co.za/shop/premix/19915-concrete-mix-40kg-bag.html",
-    "image": "https://www.cashbuild.co.za/shop/36227-home_default/concrete-mix-40kg-bag.jpg"
-  },
-  "Plaster Mix 40kg Bag [Roofing]": {
-    "price": 43.95,
-    "url": "https://www.cashbuild.co.za/shop/premix/19930-plaster-mix-40kg-bag.html",
-    "image": "https://www.cashbuild.co.za/shop/36261-home_default/plaster-mix-40kg-bag.jpg"
-  },
-  "Builders Blend 1/2 Cube [Roofing]": {
-    "price": 469.95,
-    "url": "https://www.cashbuild.co.za/shop/premix/19952-builders-blend-1-2-cube.html",
-    "image": "https://www.cashbuild.co.za/shop/36243-home_default/builders-blend-1-2-cube.jpg"
-  },
-  "Melamine Edging White 20mm X 5m [Bricks & Blocks]": {
-    "price": 28.95,
-    "url": "https://www.cashbuild.co.za/shop/boards-9x6-melamine/7628-melamine-edging-white-20mm-6009149486373.html",
-    "image": "https://www.cashbuild.co.za/shop/11873-home_default/melamine-edging-white-20mm.jpg"
-  },
-  "Shutterply Untreated 2.440x1.220 18mm [Bricks & Blocks]": {
-    "price": 697.95,
-    "url": "https://www.cashbuild.co.za/shop/shutterply/12283-shutterply-18mm-2050000014413.html",
-    "image": "https://www.cashbuild.co.za/shop/28087-home_default/shutterply-18mm.jpg"
-  },
-  "Masonite Standard Brown 3.2mm 2.440 X 1.220 [Bricks & Blocks]": {
-    "price": 199.95,
-    "url": "https://www.cashbuild.co.za/shop/masonite/19730-masonite-standard-brown-32mm-2440-x-1220-6002202002626.html",
-    "image": "https://www.cashbuild.co.za/shop/35812-home_default/masonite-standard-brown-32mm-2440-x-1220.jpg"
-  },
-  "Soft Board Std 2.44X1.22 12mm [Bricks & Blocks]": {
-    "price": 362.95,
-    "url": "https://www.cashbuild.co.za/shop/soft-board/19729-soft-board-std-244x122-12mm-2050000010859.html",
-    "image": "https://www.cashbuild.co.za/shop/35811-home_default/soft-board-std-244x122-12mm.jpg"
-  },
-  "Chipboard 2750X1830 16mm [Bricks & Blocks]": {
-    "price": 604.95,
-    "url": "https://www.cashbuild.co.za/shop/boards-9x6-melamine/19726-chipboard-2750x1830-16mm-2050000023279.html",
-    "image": "https://www.cashbuild.co.za/shop/35808-home_default/chipboard-2750x1830-16mm.jpg"
-  },
-  "Melamine White 2.750X1.830 16mm [Bricks & Blocks]": {
-    "price": 934.95,
-    "url": "https://www.cashbuild.co.za/shop/boards-9x6-melamine/19727-melamine-white-2750x1830-16mm-2050000022807.html",
-    "image": "https://www.cashbuild.co.za/shop/35809-home_default/melamine-white-2750x1830-16mm.jpg"
-  },
-  "Mdf Superwood 2.750X1.830 16mm [Bricks & Blocks]": {
-    "price": 924.95,
-    "url": "https://www.cashbuild.co.za/shop/boards-9x6-superwood/19728-mdf-superwood-2750x1830-16mm-2050000022739.html",
-    "image": "https://www.cashbuild.co.za/shop/35810-home_default/mdf-superwood-2750x1830-16mm.jpg"
-  },
-  "Masonite Standard Brown 3.2mm 2.440 X 1.220 [Ceiling & Insulation]": {
-    "price": 199.95,
-    "url": "https://www.cashbuild.co.za/shop/masonite/19730-masonite-standard-brown-32mm-2440-x-1220-6002202002626.html",
-    "image": "https://www.cashbuild.co.za/shop/35812-home_default/masonite-standard-brown-32mm-2440-x-1220.jpg"
-  }
+  "_last_updated": "2025-04-11 00:13:00",
+  "Matty Door, Stone Grey, 2550, Woodgrain": 2179.95,
+  "Powafix White Putty Packet 500g": 9.95,
+  "Powafix White Putty Packet 1kg": 18.95,
+  "Powafix White Putty Packet 2kg": 33.95,
+  "Powafix White Putty Packet 5kg": 77.95,
+  "Steel Door Frame Left Hand": 249.95,
+  "Folding Door White Ash (81w X 203h)": 644.95,
+  "Steel Door Frame Right Hand": 249.95,
+  "Steel Door Frame Heavy Duty Left Hand": 489.95,
+  "Steel Door Frame Heavy Duty Right Hand": 489.95,
+  "Steel Door Frame Stable Heavy Duty Left Hand": 564.95,
+  "Steel Door Frame Stable Heavy Duty Right Hand": 559.95,
+  "Steel Frame & Door Combination Right Hand": 1249.95,
+  "Steel Frame & Door Combination Left Hand": 1249.95,
+  "Window Frame Steel C1h F7 Left Hand": 339.95,
+  "Window Frame Steel C2h F7 Left Hand": 484.95,
+  "Window Frame Steel Nc1 F7 Left Hand": 289.95,
+  "Window Frame Steel Nc2 F7 Left Hand": 369.95,
+  "Window Frame Steel Nc2f F7 Left Hand": 529.95,
+  "Window Frame Steel Nc6 F7": 124.95,
+  "Window Frame Steel Ne1 F7": 232.95,
+  "Window Frame Steel Ne2 F7 Left Hand": 307.95,
+  "Window Frame Steel Ne4 F7": 519.95,
+  "Wooden Door Core Horizontal": 419.95,
+  "Deep Moulded Pre-painted Light Duty Interior Milano Grey...": 575.95,
+  "Deep Moulded Pre-painted Light Duty Interior Tudor 6...": 575.95,
+  "Medium Duty San Martino Door": 669.95,
+  "Door Aluminium Stack Folding 1.8m Bronze Right Hand Open out": 9699.95,
+  "Door Aluminium Stack Folding 1.8m Bronze Left Hand Open out": 9699.95,
+  "Doorframe Saligna Econo 102 X 45": 584.95,
+  "Door Wood F&l O/b Braced Lc": 1680.95,
+  "Window Frame Steel Td75 F7 Left Hand": 744.95,
+  "Wooden Door Tudor Deep Moulded": 474.95
 }
