@@ -1,73 +1,118 @@
 {
-  "_last_updated": "2025-04-11 14:31:07",
-  "Doors - Powafix White Putty Packet 500g": 9.95,
-  "Doors - Powafix White Putty Packet 1kg": 18.95,
-  "Doors - Powafix White Putty Packet 2kg": 33.95,
-  "Doors - Powafix White Putty Packet 5kg": 77.95,
-  "Doors - Wooden Door Frame Hardwood": 699.95,
-  "Doors - Pivot Horizontal [c] - Pine Door - 1200 X 2100": 6004.95,
-  "Doors - Window Frame Steel Nc6 F7": 117.95,
-  "Doors - Window Frame Steel Ne1 F7": 237.95,
-  "Doors - Window Frame Steel Ne2 F7 Left Hand": 307.95,
-  "Doors - Window Frame Steel Ne4 F7": 514.95,
-  "Doors - Sliding Door Aluminium Charcoal 1.5m": 2819.95,
-  "Doors - Window Frame Steel Td57s5 F7 Left Hand": 859.95,
-  "Doors - Window Frame Steel Nd11f F7": 999.95,
-  "Doors - Window Frame Steel Nd511f F7": 1239.95,
-  "Doors - Window Frame Steel Td57s8 F7 Left Hand": 869.95,
-  "Doors - Window Frame Steel Td675 F7 Left Hand": 1259.95,
-  "Doors - Window Frame Steel Td6757 F7": 2699.95,
-  "Doors - Window Frame Steel Td678 F7 Left Hand": 1169.95,
-  "Doors - Window Frame Steel Td75 F7 Left Hand": 744.95,
-  "Doors - Window Frame Aluminium 28-ptt1212 Bronze Clear Left Hand": 1639.95,
-  "Doors - Door Medium Duty Parklane": 759.95,
-  "Doors - Door Townsend Moulded 4 Panel": 529.95,
-  "Doors - Window Frame Aluminium 28-pt99 Bronze Obscure": 1199.95,
-  "Doors - Window Frame Aluminium 28-pt99 Bronze Clear": 1019.95,
-  "Doors - Window Frame Aluminium 28-pt69 Bronze Clear": 799.95,
-  "Doors - Window Frame Aluminium 28-pt66 Bronze Clear": 599.95,
-  "Doors - Window Frame Aluminium 28-pt129 Bronze Clear Left Hand": 1199.95,
-  "Doors - Window Frame Aluminium 28-ptt1512 Bronze Clear Left Hand": 1869.95,
-  "Doors - Medium Duty Console Stable Door": 599.95,
-  "Doors - Door Embos Bastion 8 Panel": 1148.95,
-  "Doors - Door 8 Panel Mixed Timber Stable": 1469.95,
-  "Doors - Door Print Crafted White L Int E/e": 524.95,
-  "Doors - Window Frame Steel Nc2 F7 Left Hand": 369.95,
-  "Doors - Door Mixed Timber Frame & Ledge Open Back": 1219.95,
-  "Doors - Door Toledo Moulded 2 Panel": 534.95,
-  "IBR Roofing - Din-Euro Adaptor": 38.95,
-  "IBR Roofing - Adapt Schuko 2Pin Round": 31.95,
-  "IBR Roofing - Waco Joint Kit 1.5 - 4mm Gpj-0": 84.95,
-  "IBR Roofing - Machine Screw SABS M4 X 20 Quantity: 20": 13.95,
-  "IBR Roofing - Machine Screw SABS M4 X 25 Quantity: 20": 17.95,
-  "IBR Roofing - Fluorescent Starter Fsu 4-80 Watt Quantity:2": 11.95,
-  "IBR Roofing - Through Switch": 13.95,
-  "IBR Roofing - Machine Screw SABS M4 X 40 Quantity: 20": 21.95,
-  "IBR Roofing - Machine Screw SABS M5 X 25 Quantity: 20": 21.95,
-  "IBR Roofing - Plug 3 Pin": 17.95,
-  "IBR Roofing - Machine Screw SABS M4 X 30 Quantity: 20": 19.95,
-  "IBR Roofing - Machine Screw SABS M4 X 50 Quantity: 20": 23.95,
-  "IBR Roofing - Machine Screw SABS M5 X 30 Quantity: 20": 22.95,
-  "IBR Roofing - Machine Screw SABS M5 X 40 Quantity: 20": 27.95,
-  "IBR Roofing - Machine Screw SABS M5 X 16 Quantity: 20": 19.95,
-  "IBR Roofing - Distribution Board Label Set": 23.95,
-  "IBR Roofing - Insulation Tape Nitto Black": 29.95,
-  "IBR Roofing - Insulation Tape Nitto Blue": 29.95,
-  "IBR Roofing - Insulation Tape Nitto White": 29.95,
-  "IBR Roofing - Insulation Tape Nitto Red": 29.95,
-  "IBR Roofing - Insulation Tape Nitto Green": 29.95,
-  "IBR Roofing - Machine Screw SABS M5 X 50 Quantity: 20": 29.95,
-  "IBR Roofing - Plugtop Sabs Rubber 15A": 29.95,
-  "IBR Roofing - Ferrule Quantity:4": 46.95,
-  "IBR Roofing - Distribution Board PVC Blanks": 47.95,
-  "IBR Roofing - Poly Saddle SABS Round 12mm Quantity:100": 39.95,
-  "IBR Roofing - Multi Plug 5 X16a with Cord": 322.95,
-  "IBR Roofing - Poly Saddle SABS Round 11mm Quantity:100": 57.95,
-  "IBR Roofing - Poly Saddle SABS Round 10mm Quantity:100": 25.95,
-  "IBR Roofing - Poly Saddle SABS Flat 8.5mm Quantity:100": 26.95,
-  "IBR Roofing - Poly Saddle SABS Flat 10.5mm Quantity:100": 26.95,
-  "IBR Roofing - Saddle SABS Galvanised Steel Quantity:5": 9.95,
-  "IBR Roofing - Saddle SABS Galvanised Steel 20mm Quantity:2": 4.4,
-  "IBR Roofing - Multi Plug 3way with Cord": 189.95,
-  "IBR Roofing - Multi Plug SABS 1x16amp & 2x5amp": 45.95
+  "_last_updated": "2025-04-11 14:35:29",
+  "Distribution Board PVC Flush DIN Rail 12 Way [Cement]": {
+    "price": 302.95,
+    "url": "https://www.cashbuild.co.za/shop/distribution-boards/698-distribution-board-pvc-flush-din-rail-12-way-6005710021158.html",
+    "image": "https://www.cashbuild.co.za/shop/14036-home_default/distribution-board-pvc-flush-din-rail-12-way.jpg"
+  },
+  "Distribution Board PVC Flush DIN Rail 8 Way [Cement]": {
+    "price": 267.95,
+    "url": "https://www.cashbuild.co.za/shop/distribution-boards/699-distribution-board-pvc-flush-din-rail-8-way-6005710021141.html",
+    "image": "https://www.cashbuild.co.za/shop/14035-home_default/distribution-board-pvc-flush-din-rail-8-way.jpg"
+  },
+  "Distribution Board PVC Surface DIN Rail 8 Way [Cement]": {
+    "price": 269.95,
+    "url": "https://www.cashbuild.co.za/shop/distribution-boards/700-distribution-board-pvc-surface-din-rail-8-way-6005710021165.html",
+    "image": "https://www.cashbuild.co.za/shop/14049-home_default/distribution-board-pvc-surface-din-rail-8-way.jpg"
+  },
+  "Distribution Board Steel Flush Mount [Cement]": {
+    "price": 272.95,
+    "url": "https://www.cashbuild.co.za/shop/distribution-boards/11775-distribution-board-steel-flush-mount-6004830264124.html",
+    "image": "https://www.cashbuild.co.za/shop/14048-home_default/distribution-board-steel-flush-mount.jpg"
+  },
+  "Distribution Board Steel Surface Mount [Cement]": {
+    "price": 142.95,
+    "url": "https://www.cashbuild.co.za/shop/distribution-boards/11778-distribution-board-steel-surface-mount-6004830020324.html",
+    "image": "https://www.cashbuild.co.za/shop/14060-home_default/distribution-board-steel-surface-mount.jpg"
+  },
+  "Distribution Brd SABS 16way Flush Mount [Cement]": {
+    "price": 224.95,
+    "url": "https://www.cashbuild.co.za/shop/distribution-boards/11779-distribution-brd-sabs-16way-flush-mount-6004830264117.html",
+    "image": "https://www.cashbuild.co.za/shop/14047-home_default/distribution-brd-sabs-16way-flush-mount.jpg"
+  },
+  "Surface Box Waterproof SABS 4x2 [Cement]": {
+    "price": 82.95,
+    "url": "https://www.cashbuild.co.za/shop/distribution-boards/11920-surface-box-waterproof-6004830834471.html",
+    "image": "https://www.cashbuild.co.za/shop/14077-home_default/surface-box-waterproof.jpg"
+  },
+  "Waco 8 Module Flush Distribution Board [Cement]": {
+    "price": 859.95,
+    "url": "https://www.cashbuild.co.za/shop/distribution-boards/16576-waco-8-module-flush-distribution-board-6004830839889.html",
+    "image": "https://www.cashbuild.co.za/shop/31183-home_default/waco-8-module-flush-distribution-board.jpg"
+  },
+  "Waco 8 Module Surface Distribution Board [Cement]": {
+    "price": 824.95,
+    "url": "https://www.cashbuild.co.za/shop/distribution-boards/16577-waco-8-module-surface-distribution-board-6004830839902.html",
+    "image": "https://www.cashbuild.co.za/shop/31184-home_default/waco-8-module-surface-distribution-board.jpg"
+  },
+  "Waco 12 Module Flush Distribution Board [Cement]": {
+    "price": 1099.95,
+    "url": "https://www.cashbuild.co.za/shop/distribution-boards/16578-waco-12-module-flush-distribution-board-6004830839926.html",
+    "image": "https://www.cashbuild.co.za/shop/31185-home_default/waco-12-module-flush-distribution-board.jpg"
+  },
+  "Distribution Board [Cement]": {
+    "price": 799.95,
+    "url": "https://www.cashbuild.co.za/shop/distribution-boards/3103-distribution-board-6009704776765.html",
+    "image": "https://www.cashbuild.co.za/shop/32971-home_default/distribution-board.jpg"
+  },
+  "Building Mix 40kg Bag [Roofing]": {
+    "price": 43.95,
+    "url": "https://www.cashbuild.co.za/shop/premix/19899-building-mix-40kg-bag.html",
+    "image": "https://www.cashbuild.co.za/shop/36248-home_default/building-mix-40kg-bag.jpg"
+  },
+  "Concrete Mix 40kg Bag [Roofing]": {
+    "price": 43.95,
+    "url": "https://www.cashbuild.co.za/shop/premix/19915-concrete-mix-40kg-bag.html",
+    "image": "https://www.cashbuild.co.za/shop/36227-home_default/concrete-mix-40kg-bag.jpg"
+  },
+  "Plaster Mix 40kg Bag [Roofing]": {
+    "price": 43.95,
+    "url": "https://www.cashbuild.co.za/shop/premix/19930-plaster-mix-40kg-bag.html",
+    "image": "https://www.cashbuild.co.za/shop/36261-home_default/plaster-mix-40kg-bag.jpg"
+  },
+  "Builders Blend 1/2 Cube [Roofing]": {
+    "price": 469.95,
+    "url": "https://www.cashbuild.co.za/shop/premix/19952-builders-blend-1-2-cube.html",
+    "image": "https://www.cashbuild.co.za/shop/36243-home_default/builders-blend-1-2-cube.jpg"
+  },
+  "Melamine Edging White 20mm X 5m [Bricks & Blocks]": {
+    "price": 28.95,
+    "url": "https://www.cashbuild.co.za/shop/boards-9x6-melamine/7628-melamine-edging-white-20mm-6009149486373.html",
+    "image": "https://www.cashbuild.co.za/shop/11873-home_default/melamine-edging-white-20mm.jpg"
+  },
+  "Shutterply Untreated 2.440x1.220 18mm [Bricks & Blocks]": {
+    "price": 697.95,
+    "url": "https://www.cashbuild.co.za/shop/shutterply/12283-shutterply-18mm-2050000014413.html",
+    "image": "https://www.cashbuild.co.za/shop/28087-home_default/shutterply-18mm.jpg"
+  },
+  "Masonite Standard Brown 3.2mm 2.440 X 1.220 [Bricks & Blocks]": {
+    "price": 199.95,
+    "url": "https://www.cashbuild.co.za/shop/masonite/19730-masonite-standard-brown-32mm-2440-x-1220-6002202002626.html",
+    "image": "https://www.cashbuild.co.za/shop/35812-home_default/masonite-standard-brown-32mm-2440-x-1220.jpg"
+  },
+  "Soft Board Std 2.44X1.22 12mm [Bricks & Blocks]": {
+    "price": 362.95,
+    "url": "https://www.cashbuild.co.za/shop/soft-board/19729-soft-board-std-244x122-12mm-2050000010859.html",
+    "image": "https://www.cashbuild.co.za/shop/35811-home_default/soft-board-std-244x122-12mm.jpg"
+  },
+  "Chipboard 2750X1830 16mm [Bricks & Blocks]": {
+    "price": 604.95,
+    "url": "https://www.cashbuild.co.za/shop/boards-9x6-melamine/19726-chipboard-2750x1830-16mm-2050000023279.html",
+    "image": "https://www.cashbuild.co.za/shop/35808-home_default/chipboard-2750x1830-16mm.jpg"
+  },
+  "Melamine White 2.750X1.830 16mm [Bricks & Blocks]": {
+    "price": 934.95,
+    "url": "https://www.cashbuild.co.za/shop/boards-9x6-melamine/19727-melamine-white-2750x1830-16mm-2050000022807.html",
+    "image": "https://www.cashbuild.co.za/shop/35809-home_default/melamine-white-2750x1830-16mm.jpg"
+  },
+  "Mdf Superwood 2.750X1.830 16mm [Bricks & Blocks]": {
+    "price": 924.95,
+    "url": "https://www.cashbuild.co.za/shop/boards-9x6-superwood/19728-mdf-superwood-2750x1830-16mm-2050000022739.html",
+    "image": "https://www.cashbuild.co.za/shop/35810-home_default/mdf-superwood-2750x1830-16mm.jpg"
+  },
+  "Masonite Standard Brown 3.2mm 2.440 X 1.220 [Ceiling & Insulation]": {
+    "price": 199.95,
+    "url": "https://www.cashbuild.co.za/shop/masonite/19730-masonite-standard-brown-32mm-2440-x-1220-6002202002626.html",
+    "image": "https://www.cashbuild.co.za/shop/35812-home_default/masonite-standard-brown-32mm-2440-x-1220.jpg"
+  }
 }
