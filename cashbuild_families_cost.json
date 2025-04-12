@@ -1,4 +1,804 @@
 {
-  "_item_count": 0,
-  "_last_updated": "2025-04-12 21:36:27"
+  "_item_count": 175,
+  "_last_updated": "2025-04-12 22:00:18",
+  "brick - Air Brick Concrete Grey": {
+    "image": "https://www.cashbuild.co.za/shop/34045-home_default/air-brick-concrete-grey.jpg",
+    "price": 42.95,
+    "url": "https://www.cashbuild.co.za/shop/air-bricks-vents/18678-air-brick-concrete-grey-2050000001857.html"
+  },
+  "brick - Air Brick Plastic Brown": {
+    "image": "https://www.cashbuild.co.za/shop/17342-home_default/air-brick-plastic-brown.jpg",
+    "price": 8.6,
+    "url": "https://www.cashbuild.co.za/shop/air-bricks-vents/8171-air-brick-plastic-brown-6009704764717.html"
+  },
+  "brick - Bolster Brick 100mm": {
+    "image": "https://www.cashbuild.co.za/shop/17257-home_default/bolster-brick-100mm.jpg",
+    "price": 209.95,
+    "url": "https://www.cashbuild.co.za/shop/bolster/8177-bolster-brick-100mm-6009641685311.html"
+  },
+  "brick - Brick Cement Maxi 290x90x140": {
+    "image": "https://www.cashbuild.co.za/shop/19449-home_default/brick-cement-maxi.jpg",
+    "price": 3.75,
+    "url": "https://www.cashbuild.co.za/shop/cement-plaster-bricks/1051-brick-cement-maxi-2050000026027.html"
+  },
+  "brick - Brick Cement Stock 210x110x70": {
+    "image": "https://www.cashbuild.co.za/shop/19448-home_default/brick-cement-stock.jpg",
+    "price": 1.85,
+    "url": "https://www.cashbuild.co.za/shop/cement-plaster-bricks/1052-brick-cement-stock-2050000026003.html"
+  },
+  "brick - Brick Clay Plaster Nfp": {
+    "image": "https://www.cashbuild.co.za/shop/34042-home_default/brick-clay-plaster-nfp.jpg",
+    "price": 2.65,
+    "url": "https://www.cashbuild.co.za/shop/clay-plaster-bricks/12200-brick-clay-plaster-nfp-2050000019098.html"
+  },
+  "brick - Brick Force 110mm X 20m Heavy Duty SABS Wire": {
+    "image": "https://www.cashbuild.co.za/shop/23030-home_default/brick-force-110mm-x-20m-heavy-duty-sabs-wire.jpg",
+    "price": 38.95,
+    "url": "https://www.cashbuild.co.za/shop/brickforce/1136-brick-force-110mm-x-20m-heavy-duty-sabs-wire-2050000063916.html"
+  },
+  "brick - Brick Force 150mm X 20m Heavy Duty SABS Wire": {
+    "image": "https://www.cashbuild.co.za/shop/23029-home_default/brick-force-150mm-x-20m-heavy-duty-sabs-wire.jpg",
+    "price": 38.95,
+    "url": "https://www.cashbuild.co.za/shop/brickforce/1139-brick-force-150mm-x-20m-heavy-duty-sabs-wire-2050000063909.html"
+  },
+  "brick - Brick Force 75mm X 20m Heavy Duty SABS Wire": {
+    "image": "https://www.cashbuild.co.za/shop/23031-home_default/brick-force-75mm-x-20m-heavy-duty-sabs-wire.jpg",
+    "price": 38.95,
+    "url": "https://www.cashbuild.co.za/shop/brickforce/1142-brick-force-75mm-x-20m-heavy-duty-sabs-wire-2050000063923.html"
+  },
+  "brick - Brick Jointer Cross 8mm Square": {
+    "image": "https://www.cashbuild.co.za/shop/17289-home_default/brick-jointer-cross-8mm-square.jpg",
+    "price": 49.95,
+    "url": "https://www.cashbuild.co.za/shop/jointer/8182-brick-jointer-cross-8mm-square-9600954300095.html"
+  },
+  "brick - Brick Jointer Long 8mm Round": {
+    "image": "https://www.cashbuild.co.za/shop/17287-home_default/brick-jointer-long-8mm-round.jpg",
+    "price": 119.95,
+    "url": "https://www.cashbuild.co.za/shop/jointer/8183-brick-jointer-long-8mm-round-1600954300096.html"
+  },
+  "brick - Brick Jointer Long 8mm Square": {
+    "image": "https://www.cashbuild.co.za/shop/17288-home_default/brick-jointer-long-8mm-square.jpg",
+    "price": 122.95,
+    "url": "https://www.cashbuild.co.za/shop/jointer/8184-brick-jointer-long-8mm-square-2600954300096.html"
+  },
+  "brick - Brick Ocon Clay Semi Face": {
+    "image": "https://www.cashbuild.co.za/shop/19478-home_default/ocon-brick-clay-semi-face.jpg",
+    "price": 2.3,
+    "url": "https://www.cashbuild.co.za/shop/clay-plaster-bricks/7529-ocon-brick-clay-semi-face-2050000025884.html"
+  },
+  "brick - Brick Ocon Clay Stock": {
+    "image": "https://www.cashbuild.co.za/shop/19493-home_default/ocon-brick-clay-stock-.jpg",
+    "price": 2.25,
+    "url": "https://www.cashbuild.co.za/shop/clay-plaster-bricks/1081-ocon-brick-clay-stock--2050000025877.html"
+  },
+  "brick - Brick Verona Satin Fba": {
+    "image": "https://www.cashbuild.co.za/shop/35745-home_default/brick-verona-satin-fba.jpg",
+    "price": 3.2,
+    "url": "https://www.cashbuild.co.za/shop/clay-face-bricks/19468-brick-verona-satin-fba.html"
+  },
+  "brick - Brick West End Dapple Yard": {
+    "image": "https://www.cashbuild.co.za/shop/19542-home_default/west-end-dapple-yard.jpg",
+    "price": 4.15,
+    "url": "https://www.cashbuild.co.za/shop/clay-face-bricks/12230-west-end-dapple-yard-2050000021978.html"
+  },
+  "brick - Brickforce 100mm X 15m (non Nhbrc)": {
+    "image": "https://www.cashbuild.co.za/shop/33318-home_default/brickforce-100mm-x-15m-non-nhbrc.jpg",
+    "price": 21.95,
+    "url": "https://www.cashbuild.co.za/shop/brickforce/18648-brickforce-100mm-x-15m-non-nhbrc.html"
+  },
+  "brick - Brickforce 150mm 2.8mm X 20m NHBRC": {
+    "image": "https://www.cashbuild.co.za/shop/33321-home_default/brickforce-150mm-28mm-x-20m-nhbrc.jpg",
+    "price": 48.95,
+    "url": "https://www.cashbuild.co.za/shop/brickforce/18651-brickforce-150mm-28mm-x-20m-nhbrc.html"
+  },
+  "brick - Brickforce 150mm X 15m (non Nhbrc)": {
+    "image": "https://www.cashbuild.co.za/shop/33319-home_default/brickforce-150mm-x-15m-non-nhbrc.jpg",
+    "price": 21.95,
+    "url": "https://www.cashbuild.co.za/shop/brickforce/18649-brickforce-150mm-x-15m-non-nhbrc.html"
+  },
+  "brick - Brickforce 75mm 2.8mm X 20m NHBRC": {
+    "image": "https://www.cashbuild.co.za/shop/33320-home_default/brickforce-75mm-28mm-x-20m-nhbrc.jpg",
+    "price": 48.95,
+    "url": "https://www.cashbuild.co.za/shop/brickforce/18650-brickforce-75mm-28mm-x-20m-nhbrc.html"
+  },
+  "brick - Brickforce 75mm X 15m (non Nhbrc)": {
+    "image": "https://www.cashbuild.co.za/shop/33317-home_default/brickforce-75mm-x-15m-non-nhbrc.jpg",
+    "price": 21.95,
+    "url": "https://www.cashbuild.co.za/shop/brickforce/18647-brickforce-75mm-x-15m-non-nhbrc.html"
+  },
+  "brick - Champion Eland Brick": {
+    "image": "https://www.cashbuild.co.za/shop/36962-home_default/cashbuild-eland-brick.jpg",
+    "price": 4.05,
+    "url": "https://www.cashbuild.co.za/shop/clay-face-bricks/21268-cashbuild-eland-brick.html"
+  },
+  "brick - Champion Impala Brick": {
+    "image": "https://www.cashbuild.co.za/shop/36964-home_default/cashbuild-impala-brick.jpg",
+    "price": 4.05,
+    "url": "https://www.cashbuild.co.za/shop/clay-face-bricks/21270-cashbuild-impala-brick.html"
+  },
+  "brick - Colour Variation Brick": {
+    "image": "https://www.cashbuild.co.za/shop/19532-home_default/lawley-variations.jpg",
+    "price": 3.75,
+    "url": "https://www.cashbuild.co.za/shop/clay-face-bricks/2562-lawley-variations-2050000060878.html"
+  },
+  "brick - Design Brick Wood Look Vinyl Floor Tile": {
+    "image": "https://www.cashbuild.co.za/shop/32792-home_default/design-brick-wood-look-vinyl-floor-tile.jpg",
+    "price": 84.95,
+    "url": "https://www.cashbuild.co.za/shop/vinyl-tiles/17723-design-brick-wood-look-vinyl-floor-tile-6004148022744.html"
+  },
+  "brick - Gloves Latex Brick Yellow 50mm Knit Cuff": {
+    "image": "https://www.cashbuild.co.za/shop/17425-home_default/gloves-latex-brick-yellow-50mm-knit-cuff.jpg",
+    "price": 49.95,
+    "url": "https://www.cashbuild.co.za/shop/gloves/8237-gloves-latex-brick-yellow-50mm-knit-cuff-6009507826728.html"
+  },
+  "brick - Medal Brick Dressing Clear 1l": {
+    "image": "https://www.cashbuild.co.za/shop/36663-home_default/medal-brick-dressing-clear-1l.jpg",
+    "price": 134.95,
+    "url": "https://www.cashbuild.co.za/shop/undercoats-primers/6786-medal-brick-dressing-clear-1l-6009607763411.html"
+  },
+  "brick - Medal Brick Dressing Clear 5l": {
+    "image": "https://www.cashbuild.co.za/shop/36664-home_default/medal-brick-dressing-clear-5l.jpg",
+    "price": 584.95,
+    "url": "https://www.cashbuild.co.za/shop/undercoats-primers/6787-medal-brick-dressing-clear-5l-6009607763428.html"
+  },
+  "brick - Rubbing Brick Stone Medium 50x50x200": {
+    "image": "https://www.cashbuild.co.za/shop/17172-home_default/rubbing-brick-stone-medium-50x50x200.jpg",
+    "price": 194.95,
+    "url": "https://www.cashbuild.co.za/shop/power-tools-accessories/4510-rubbing-brick-stone-medium-50x50x200-6005034000389.html"
+  },
+  "brick - Trowel Brick 250mm Wooden Handle": {
+    "image": "https://www.cashbuild.co.za/shop/17367-home_default/trowel-brick-250mm-wooden-handle.jpg",
+    "price": 87.95,
+    "url": "https://www.cashbuild.co.za/shop/trowel/8383-trowel-brick-250mm-wooden-handle-6003751004123.html"
+  },
+  "brick - Trowel Brick 275-280mm Wooden Handle": {
+    "image": "https://www.cashbuild.co.za/shop/17368-home_default/trowel-brick-275-280mm-wooden-handle.jpg",
+    "price": 107.95,
+    "url": "https://www.cashbuild.co.za/shop/trowel/8384-trowel-brick-275-280mm-wooden-handle-6009544000181.html"
+  },
+  "brick - Trowel Brick 300mm Plastic Handle": {
+    "image": "https://www.cashbuild.co.za/shop/17366-home_default/trowel-brick-300mm-plastic-handle.jpg",
+    "price": 124.95,
+    "url": "https://www.cashbuild.co.za/shop/trowel/8385-trowel-brick-300mm-plastic-handle-6009641689852.html"
+  },
+  "brick - Trowel Brick 300mm Wooden Handle": {
+    "image": "https://www.cashbuild.co.za/shop/17369-home_default/trowel-brick-300mm-wooden-handle.jpg",
+    "price": 89.95,
+    "url": "https://www.cashbuild.co.za/shop/trowel/8386-trowel-brick-300mm-wooden-handle-6009544000198.html"
+  },
+  "brick - Wall Connector Ti-bond 1360x40x1.mm": {
+    "image": "https://www.cashbuild.co.za/shop/15901-home_default/wall-connector-ti-bond-1360x40x1mm.jpg",
+    "price": 92.95,
+    "url": "https://www.cashbuild.co.za/shop/truss-accessories/7089-wall-connector-ti-bond-1360x40x1mm-6006473040011.html"
+  },
+  "ceiling - Bergermaster Nukote PVA 20l White": {
+    "image": "https://www.cashbuild.co.za/shop/28575-home_default/bergermaster-nukote-pva.jpg",
+    "price": 599.95,
+    "url": "https://www.cashbuild.co.za/shop/paint-pva/466-bergermaster-nukote-pva-2050000074042.html"
+  },
+  "ceiling - Ceiling Fitting Small Es 2 X 60w Polish Brass": {
+    "image": "https://www.cashbuild.co.za/shop/13683-home_default/ceiling-fitting-small-es-2-x-60w-polish-brass.jpg",
+    "price": 184.95,
+    "url": "https://www.cashbuild.co.za/shop/indoor-lighting/4061-ceiling-fitting-small-es-2-x-60w-polish-brass-6007328023678.html"
+  },
+  "ceiling - Ceiling Inspection Trap Door 610MM X 610MM": {
+    "image": "https://www.cashbuild.co.za/shop/19962-home_default/ceiling-inspection-trap-door.jpg",
+    "price": 489.95,
+    "url": "https://www.cashbuild.co.za/shop/cement-fibre-accessories/7873-ceiling-inspection-trap-door-6009618232821.html"
+  },
+  "ceiling - Duram Wall & Ceiling Pewter 20l": {
+    "image": "https://www.cashbuild.co.za/shop/29565-home_default/duram-wall-ceiling-pewter-20l.jpg",
+    "price": 969.95,
+    "url": "https://www.cashbuild.co.za/shop/paint-pva/2958-duram-wall-ceiling-pewter-20l-6004596012243.html"
+  },
+  "ceiling - Duram Wall & Ceiling Pewter 5l": {
+    "image": "https://www.cashbuild.co.za/shop/29564-home_default/duram-wall-ceiling-pewter-5l.jpg",
+    "price": 282.95,
+    "url": "https://www.cashbuild.co.za/shop/paint-pva/2959-duram-wall-ceiling-pewter-5l-6004596000899.html"
+  },
+  "ceiling - Duram Wall & Ceiling Summer Harvest 20l": {
+    "image": "https://www.cashbuild.co.za/shop/12568-home_default/duram-wall-ceiling-summer-harvest-20l.jpg",
+    "price": 989.95,
+    "url": "https://www.cashbuild.co.za/shop/paint-pva/2960-duram-wall-ceiling-summer-harvest-20l-6003064000409.html"
+  },
+  "ceiling - Duram Wall & Ceiling Summer Harvest 5l": {
+    "image": "https://www.cashbuild.co.za/shop/12567-home_default/duram-wall-ceiling-summer-harvest-5l.jpg",
+    "price": 379.95,
+    "url": "https://www.cashbuild.co.za/shop/paint-pva/2961-duram-wall-ceiling-summer-harvest-5l-6003064000393.html"
+  },
+  "ceiling - Duram Wall & Ceiling Sunset 20l": {
+    "image": "https://www.cashbuild.co.za/shop/29561-home_default/duram-wall-ceiling-sunset-20l.jpg",
+    "price": 989.95,
+    "url": "https://www.cashbuild.co.za/shop/paint-pva/2962-duram-wall-ceiling-sunset-20l-6003064000423.html"
+  },
+  "ceiling - Duram Wall & Ceiling Sunset 5l": {
+    "image": "https://www.cashbuild.co.za/shop/12569-home_default/duram-wall-ceiling-sunset-5l.jpg",
+    "price": 379.95,
+    "url": "https://www.cashbuild.co.za/shop/paint-pva/2963-duram-wall-ceiling-sunset-5l-6003064000416.html"
+  },
+  "ceiling - Duram Wall & Ceiling White 20l": {
+    "image": "https://www.cashbuild.co.za/shop/29563-home_default/duram-wall-ceiling-white-20l.jpg",
+    "price": 989.95,
+    "url": "https://www.cashbuild.co.za/shop/paint-pva/2964-duram-wall-ceiling-white-20l-6003064000447.html"
+  },
+  "ceiling - Duram Wall & Ceiling White 5l": {
+    "image": "https://www.cashbuild.co.za/shop/29562-home_default/duram-wall-ceiling-white-5l.jpg",
+    "price": 379.95,
+    "url": "https://www.cashbuild.co.za/shop/paint-pva/2965-duram-wall-ceiling-white-5l-6003064000430.html"
+  },
+  "ceiling - Eureka Drywall Screw Ceiling 3.5x32mm Quantity:150": {
+    "image": "https://www.cashbuild.co.za/shop/15680-home_default/eureka-drywall-screw-ceiling-35x32mm-quantity-150.jpg",
+    "price": 79.95,
+    "url": "https://www.cashbuild.co.za/shop/screws/3618-eureka-drywall-screw-ceiling-35x32mm-quantity-150-6002919153277.html"
+  },
+  "ceiling - Grey Woodgrain Pvc Ceiling 5mm X3600mmx 250": {
+    "image": "https://www.cashbuild.co.za/shop/36543-home_default/grey-woodgrain-pvc-ceiling-5mm-x3600mmx-250.jpg",
+    "price": 87.95,
+    "url": "https://www.cashbuild.co.za/shop/pvc-ceiling-panels/20916-grey-woodgrain-pvc-ceiling-5mm-x3600mmx-250-6009711447818.html"
+  },
+  "ceiling - Medal Walls & Ceilings Acrylic PVA Lush Latte 20l": {
+    "image": "https://www.cashbuild.co.za/shop/36755-home_default/medal-w-c-acrylic-pva-lush-latte-20l.jpg",
+    "price": 719.95,
+    "url": "https://www.cashbuild.co.za/shop/paint-pva/6867-medal-w-c-acrylic-pva-lush-latte-20l-6009658235165.html"
+  },
+  "ceiling - Medal Walls & Ceilings Acrylic PVA Lush Latte 5l": {
+    "image": "https://www.cashbuild.co.za/shop/36754-home_default/medal-w-c-acrylic-pva-lush-latte-5l.jpg",
+    "price": 254.95,
+    "url": "https://www.cashbuild.co.za/shop/paint-pva/6868-medal-w-c-acrylic-pva-lush-latte-5l-6009658235103.html"
+  },
+  "ceiling - Medal Walls & Ceilings Acrylic PVA Sand Olive 20l": {
+    "image": "https://www.cashbuild.co.za/shop/36751-home_default/medal-w-c-acrylic-pva-sand-olive-20l.jpg",
+    "price": 719.95,
+    "url": "https://www.cashbuild.co.za/shop/paint-pva/6869-medal-w-c-acrylic-pva-sand-olive-20l-6009658234984.html"
+  },
+  "ceiling - Medal Walls & Ceilings Acrylic PVA Sand Olive 5l": {
+    "image": "https://www.cashbuild.co.za/shop/36750-home_default/medal-w-c-acrylic-pva-sand-olive-5l.jpg",
+    "price": 254.95,
+    "url": "https://www.cashbuild.co.za/shop/paint-pva/6870-medal-w-c-acrylic-pva-sand-olive-5l-6009607762438.html"
+  },
+  "ceiling - Medal Walls & Ceilings Acrylic PVA Soft Suede 20l": {
+    "image": "https://www.cashbuild.co.za/shop/36753-home_default/medal-w-c-acrylic-pva-soft-suede-20l.jpg",
+    "price": 719.95,
+    "url": "https://www.cashbuild.co.za/shop/paint-pva/6871-medal-w-c-acrylic-pva-soft-suede-20l-6009607761776.html"
+  },
+  "ceiling - Medal Walls & Ceilings Acrylic PVA Soft Suede 5l": {
+    "image": "https://www.cashbuild.co.za/shop/36752-home_default/medal-w-c-acrylic-pva-soft-suede-5l.jpg",
+    "price": 254.95,
+    "url": "https://www.cashbuild.co.za/shop/paint-pva/6872-medal-w-c-acrylic-pva-soft-suede-5l-6009607767280.html"
+  },
+  "ceiling - Medal Walls & Ceilings Acrylic PVA White 20l": {
+    "image": "https://www.cashbuild.co.za/shop/36761-home_default/medal-w-c-acrylic-pva-white-20l.jpg",
+    "price": 719.95,
+    "url": "https://www.cashbuild.co.za/shop/paint-pva/6873-medal-w-c-acrylic-pva-white-20l-6009658238807.html"
+  },
+  "ceiling - Medal Walls & Ceilings Acrylic PVA White 5l": {
+    "image": "https://www.cashbuild.co.za/shop/36756-home_default/medal-w-c-acrylic-pva-white-5l.jpg",
+    "price": 219.95,
+    "url": "https://www.cashbuild.co.za/shop/paint-pva/6874-medal-w-c-acrylic-pva-white-5l-6009658238791.html"
+  },
+  "ceiling - PVC Ceiling 30cm X 3,9M Broad Gold Line": {
+    "image": "https://www.cashbuild.co.za/shop/25018-home_default/pvc-ceiling.jpg",
+    "price": 102.95,
+    "url": "https://www.cashbuild.co.za/shop/pvc-ceiling-panels/2035-pvc-ceiling.html"
+  },
+  "ceiling - PVC Ceiling 30cm X 3,9M Gold Line": {
+    "image": "https://www.cashbuild.co.za/shop/25014-home_default/pvc-ceiling.jpg",
+    "price": 99.95,
+    "url": "https://www.cashbuild.co.za/shop/pvc-ceiling-panels/2036-pvc-ceiling.html"
+  },
+  "ceiling - PVC Ceiling 30cm X 3,9M Multi Gold Line": {
+    "image": "https://www.cashbuild.co.za/shop/25015-home_default/pvc-ceiling.jpg",
+    "price": 99.95,
+    "url": "https://www.cashbuild.co.za/shop/pvc-ceiling-panels/2039-pvc-ceiling.html"
+  },
+  "ceiling - PVC Ceiling 30cm X 3,9M Silve Dot": {
+    "image": "https://www.cashbuild.co.za/shop/25016-home_default/pvc-ceiling.jpg",
+    "price": 99.95,
+    "url": "https://www.cashbuild.co.za/shop/pvc-ceiling-panels/2040-pvc-ceiling.html"
+  },
+  "ceiling - PVC Ceiling Beige Stone 3600mmx250mmx7mm": {
+    "image": "https://www.cashbuild.co.za/shop/20071-home_default/pvc-ceiling-beige-stone.jpg",
+    "price": 117.95,
+    "url": "https://www.cashbuild.co.za/shop/pvc-ceiling-panels/7677-pvc-ceiling-beige-stone-6009706952297.html"
+  },
+  "ceiling - PVC Ceiling Curve Floral 3600X250X7.5mm": {
+    "image": "https://www.cashbuild.co.za/shop/20073-home_default/pvc-ceiling-curve-floral-stripe.jpg",
+    "price": 114.95,
+    "url": "https://www.cashbuild.co.za/shop/pvc-ceiling-panels/7678-pvc-ceiling-curve-floral-stripe-6009706955243.html"
+  },
+  "ceiling - PVC Ceiling Curve Grey Oak 3600\u00d7250x8mm": {
+    "image": "https://www.cashbuild.co.za/shop/20074-home_default/pvc-ceiling-curve-grey-oak.jpg",
+    "price": 112.95,
+    "url": "https://www.cashbuild.co.za/shop/pvc-ceiling-panels/7679-pvc-ceiling-curve-grey-oak-6009706956226.html"
+  },
+  "ceiling - PVC Ceiling Grey Woodgrain 3600mmx250mmx7mm": {
+    "image": "https://www.cashbuild.co.za/shop/20072-home_default/pvc-ceiling-grey-woodgrain.jpg",
+    "price": 124.95,
+    "url": "https://www.cashbuild.co.za/shop/pvc-ceiling-panels/7683-pvc-ceiling-grey-woodgrain-6009706952440.html"
+  },
+  "ceiling - PVC Ceiling H Joiner 3.6m": {
+    "image": "https://www.cashbuild.co.za/shop/20068-home_default/pvc-ceiling-h-joiner.jpg",
+    "price": 39.95,
+    "url": "https://www.cashbuild.co.za/shop/pvc-ceiling-panels/7687-pvc-ceiling-h-joiner-6009700177467.html"
+  },
+  "ceiling - PVC Ceiling High Gloss White 3600mmx300mmx6mm": {
+    "image": "https://www.cashbuild.co.za/shop/20065-home_default/pvc-ceiling-high-gloss-white.jpg",
+    "price": 137.95,
+    "url": "https://www.cashbuild.co.za/shop/pvc-ceiling-panels/7688-pvc-ceiling-high-gloss-white-6009706950019.html"
+  },
+  "ceiling - PVC Ceiling Invex Sandstone 7.5X3600X250mm": {
+    "image": "https://www.cashbuild.co.za/shop/32802-home_default/invex-sandstone-pvc-ceiling-75x3600x250.jpg",
+    "price": 114.95,
+    "url": "https://www.cashbuild.co.za/shop/pvc-ceiling-panels/17735-invex-sandstone-pvc-ceiling-75x3600x250-6009711444633.html"
+  },
+  "ceiling - PVC Ceiling Joy 3600mmx300mmx6mm": {
+    "image": "https://www.cashbuild.co.za/shop/20067-home_default/pvc-ceiling-joy.jpg",
+    "price": 137.95,
+    "url": "https://www.cashbuild.co.za/shop/pvc-ceiling-panels/7689-pvc-ceiling-joy-6009706950668.html"
+  },
+  "ceiling - PVC Ceiling White Marble Groove 250X3600mm": {
+    "image": "https://www.cashbuild.co.za/shop/30469-home_default/pvc-ceiling-white-marble-groove.jpg",
+    "price": 114.95,
+    "url": "https://www.cashbuild.co.za/shop/pvc-ceiling-panels/16395-pvc-ceiling-white-marble-groove-6009711442677.html"
+  },
+  "ceiling - White Motion Pvc Ceiling 5mm X3600mmx 250": {
+    "image": "https://www.cashbuild.co.za/shop/36544-home_default/white-motion-pvc-ceiling-5mm-x3600mmx-250.jpg",
+    "price": 87.95,
+    "url": "https://www.cashbuild.co.za/shop/pvc-ceiling-panels/20917-white-motion-pvc-ceiling-5mm-x3600mmx-250-6009711447825.html"
+  },
+  "cement - Afrimat Cement BuildCrete 42.5N 50kg": {
+    "image": "https://www.cashbuild.co.za/shop/37641-home_default/lafarge-build-crete-425n.jpg",
+    "price": 104.95,
+    "url": "https://www.cashbuild.co.za/shop/cement-yard/5420-lafarge-build-crete-425n-2050000003738.html"
+  },
+  "cement - Afrimat Cement DuraBuild 32.5N 50kg": {
+    "image": "https://www.cashbuild.co.za/shop/37642-home_default/lafarge-durabuild-325n.jpg",
+    "price": 83.9,
+    "url": "https://www.cashbuild.co.za/shop/cement-yard/5421-lafarge-durabuild-325n.html"
+  },
+  "cement - Alcolin Anchoring & Patching Cement 500grs": {
+    "image": "https://www.cashbuild.co.za/shop/28672-home_default/alcolin-anchoring-patching-cement-500grs.jpg",
+    "price": 87.95,
+    "url": "https://www.cashbuild.co.za/shop/sealants-adhesives-fillers/7696-alcolin-anchoring-patching-cement-500grs-6001743088632.html"
+  },
+  "cement - Brick Cement Maxi 290x90x140": {
+    "image": "https://www.cashbuild.co.za/shop/19449-home_default/brick-cement-maxi.jpg",
+    "price": 3.75,
+    "url": "https://www.cashbuild.co.za/shop/cement-plaster-bricks/1051-brick-cement-maxi-2050000026027.html"
+  },
+  "cement - Brick Cement Stock 210x110x70": {
+    "image": "https://www.cashbuild.co.za/shop/19448-home_default/brick-cement-stock.jpg",
+    "price": 1.85,
+    "url": "https://www.cashbuild.co.za/shop/cement-plaster-bricks/1052-brick-cement-stock-2050000026003.html"
+  },
+  "cement - Cement Afrisam Star Build 32.5n": {
+    "image": "https://www.cashbuild.co.za/shop/36791-home_default/cement-afrisam-star-build-325n.jpg",
+    "price": 90.25,
+    "url": "https://www.cashbuild.co.za/shop/cement-yard/457-cement-afrisam-star-build-325n-2050000055058.html"
+  },
+  "cement - Champion Tile Adhesive 20kg": {
+    "image": "https://www.cashbuild.co.za/shop/39310-home_default/champion-tile-adhesive-20kg.jpg",
+    "price": 48.95,
+    "url": "https://www.cashbuild.co.za/shop/tile-adhesives/9439-champion-tile-adhesive-20kg-6002761348975.html"
+  },
+  "cement - Dulux Prepaint Damp Shield 5 Litre": {
+    "image": "https://www.cashbuild.co.za/shop/12940-home_default/dulux-prepaint-damp-shield-5-litre.jpg",
+    "price": 709.95,
+    "url": "https://www.cashbuild.co.za/shop/water-proofing/475-dulux-prepaint-damp-shield-5-litre-2050000074233.html"
+  },
+  "cement - Duram Cement Primer 20l": {
+    "image": "https://www.cashbuild.co.za/shop/28763-home_default/duram-cement-primer-20l.jpg",
+    "price": 769.95,
+    "url": "https://www.cashbuild.co.za/shop/undercoats-primers/2842-duram-cement-primer-20l-6004596012656.html"
+  },
+  "cement - Duram Cement Primer 5l": {
+    "image": "https://www.cashbuild.co.za/shop/28762-home_default/duram-cement-primer-5l.jpg",
+    "price": 269.95,
+    "url": "https://www.cashbuild.co.za/shop/undercoats-primers/2843-duram-cement-primer-5l-6004596012649.html"
+  },
+  "cement - Ezee Tile Adhesive General Purpose 20kg": {
+    "image": "https://www.cashbuild.co.za/shop/28130-home_default/ezee-tile-adhesive-general-purpose.jpg",
+    "price": 47.95,
+    "url": "https://www.cashbuild.co.za/shop/tile-adhesives/4294-ezee-tile-adhesive-general-purpose-6009800059014.html"
+  },
+  "cement - Ezee Tile Bond It 1l": {
+    "image": "https://www.cashbuild.co.za/shop/28151-home_default/ezee-tile-bond-it.jpg",
+    "price": 42.95,
+    "url": "https://www.cashbuild.co.za/shop/tile-adhesives/4296-ezee-tile-bond-it-6009800059755.html"
+  },
+  "cement - Ezee Tile Bond It 5l": {
+    "image": "https://www.cashbuild.co.za/shop/28150-home_default/ezee-tile-bond-it.jpg",
+    "price": 127.95,
+    "url": "https://www.cashbuild.co.za/shop/tile-adhesives/4297-ezee-tile-bond-it-6009800059762.html"
+  },
+  "cement - Ezee Tile Grout 5kg": {
+    "image": "https://www.cashbuild.co.za/shop/28140-home_default/ezee-tile-grout-5kg.jpg",
+    "price": 64.95,
+    "url": "https://www.cashbuild.co.za/shop/tile-adhesives/4302-ezee-tile-grout-5kg-6009800059366.html"
+  },
+  "cement - Ezee Tile Porcelain Tile Adhesive 20kg": {
+    "image": "https://www.cashbuild.co.za/shop/28120-home_default/ezee-tile-porcelain-tile-adhesive.jpg",
+    "price": 107.95,
+    "url": "https://www.cashbuild.co.za/shop/tile-adhesives/4306-ezee-tile-porcelain-tile-adhesive-6009800059021.html"
+  },
+  "cement - Icon Ceramic 24 Hour Tile Adhesive 20kg": {
+    "image": "https://www.cashbuild.co.za/shop/32781-home_default/icon-ceramic-24-hour-tile-adhesive-20kg.jpg",
+    "price": 36.95,
+    "url": "https://www.cashbuild.co.za/shop/tile-adhesives/17712-icon-ceramic-24-hour-tile-adhesive-20kg-606110283434.html"
+  },
+  "cement - Icon Porcelain 24hour Tile Adhesive 20kg": {
+    "image": "https://www.cashbuild.co.za/shop/32782-home_default/icon-porcelain-24hour-tile-adhesive-20kg.jpg",
+    "price": 67.95,
+    "url": "https://www.cashbuild.co.za/shop/tile-adhesives/17713-icon-porcelain-24hour-tile-adhesive-20kg-606110283335.html"
+  },
+  "cement - Mamba Cement Ii A-m 42,5r": {
+    "image": "https://www.cashbuild.co.za/shop/25125-home_default/mamba-cement-ii-a-m-425r.jpg",
+    "price": 83.95,
+    "url": "https://www.cashbuild.co.za/shop/cement-yard/10625-mamba-cement-ii-a-m-425r-2050000064654.html"
+  },
+  "cement - Paver Cement Bevel - Colours 200x100x55": {
+    "image": "https://www.cashbuild.co.za/shop/23439-home_default/paver-cement-bevel-colours.jpg",
+    "price": 2.95,
+    "url": "https://www.cashbuild.co.za/shop/clay-pavers/1082-paver-cement-bevel-colours-2050000010675.html"
+  },
+  "cement - Paver Cement Bevel - Grey 200x100x55": {
+    "image": "https://www.cashbuild.co.za/shop/23438-home_default/paver-cement-bevel-grey.jpg",
+    "price": 2.6,
+    "url": "https://www.cashbuild.co.za/shop/clay-pavers/1083-paver-cement-bevel-grey-2050000010668.html"
+  },
+  "cement - Paver Cement Interlocking 60mm-grey": {
+    "image": "https://www.cashbuild.co.za/shop/23470-home_default/paver-cement-interlocking-60mm-grey.jpg",
+    "price": 3.05,
+    "url": "https://www.cashbuild.co.za/shop/cement-pavers/1084-paver-cement-interlocking-60mm-grey-2050000010682.html"
+  },
+  "cement - Powafix Mortar off Cement Cleaner 1l": {
+    "image": "https://www.cashbuild.co.za/shop/28008-home_default/powafix-mortar-off-cement-cleaner.jpg",
+    "price": 84.95,
+    "url": "https://www.cashbuild.co.za/shop/surface-cleaners/7813-powafix-mortar-off-cement-cleaner-6009600990104.html"
+  },
+  "cement - Tylon Bond It 1l": {
+    "image": "https://www.cashbuild.co.za/shop/28148-home_default/tylon-bond-it.jpg",
+    "price": 79.95,
+    "url": "https://www.cashbuild.co.za/shop/tile-adhesives/9462-tylon-bond-it-6002761000149.html"
+  },
+  "cement - Tylon Bond It 5l": {
+    "image": "https://www.cashbuild.co.za/shop/28147-home_default/tylon-bond-it.jpg",
+    "price": 194.95,
+    "url": "https://www.cashbuild.co.za/shop/tile-adhesives/9463-tylon-bond-it-6002761000088.html"
+  },
+  "cement - Tylon Grout 5kg Dove Grey": {
+    "image": "https://www.cashbuild.co.za/shop/33944-home_default/tylon-wall-floor-grout-5kg.jpg",
+    "price": 84.95,
+    "url": "https://www.cashbuild.co.za/shop/tile-adhesives/9478-tylon-wall-floor-grout-5kg-6002761001658.html"
+  },
+  "cement - Tylon Grout 5kg Light Grey": {
+    "image": "https://www.cashbuild.co.za/shop/33942-home_default/tylon-wall-floor-grout-5kg.jpg",
+    "price": 84.95,
+    "url": "https://www.cashbuild.co.za/shop/tile-adhesives/9479-tylon-wall-floor-grout-5kg-6002761000934.html"
+  },
+  "cement - Tylon Grout 5kg White": {
+    "image": "https://www.cashbuild.co.za/shop/33943-home_default/tylon-wall-floor-grout-5kg.jpg",
+    "price": 84.95,
+    "url": "https://www.cashbuild.co.za/shop/tile-adhesives/9481-tylon-wall-floor-grout-5kg-6002761000828.html"
+  },
+  "cement - Tylon Mosaic Fix 5kg": {
+    "image": "https://www.cashbuild.co.za/shop/28129-home_default/tylon-mosaic-fix-5kg.jpg",
+    "price": 134.95,
+    "url": "https://www.cashbuild.co.za/shop/tile-adhesives/9469-tylon-mosaic-fix-5kg-6002761348647.html"
+  },
+  "cement - Tylon Superflex 2kg": {
+    "image": "https://www.cashbuild.co.za/shop/11965-home_default/tylon-superflex-2kg.jpg",
+    "price": 322.95,
+    "url": "https://www.cashbuild.co.za/shop/tile-adhesives/9473-tylon-superflex-2kg-6002761000682.html"
+  },
+  "cement - Tylon Wall & Floor Grout 2kg": {
+    "image": "https://www.cashbuild.co.za/shop/28138-home_default/tylon-wall-floor-grout-2kg.jpg",
+    "price": 62.95,
+    "url": "https://www.cashbuild.co.za/shop/tile-adhesives/9477-tylon-wall-floor-grout-2kg-6002761100559.html"
+  },
+  "cement - Tylon Wall & Floor Grout 5kg": {
+    "image": "https://www.cashbuild.co.za/shop/28137-home_default/tylon-wall-floor-grout-5kg.jpg",
+    "price": 84.95,
+    "url": "https://www.cashbuild.co.za/shop/tile-adhesives/9480-tylon-wall-floor-grout-5kg-6002761100535.html"
+  },
+  "door - Aluminium Sliding Door Lockset": {
+    "image": "https://www.cashbuild.co.za/shop/22572-home_default/aluminium-sliding-door-lockset.jpg",
+    "price": 199.95,
+    "url": "https://www.cashbuild.co.za/shop/sliding-doors/8754-aluminium-sliding-door-lockset-6003034990204.html"
+  },
+  "door - Deep Moulded Pre-painted Light Duty Interior Milano Grey...": {
+    "image": "https://www.cashbuild.co.za/shop/33937-home_default/deep-moulded-pre-painted-light-duty-interior-milano-grey-door.jpg",
+    "price": 575.95,
+    "url": "https://www.cashbuild.co.za/shop/wooden-doors/18203-deep-moulded-pre-painted-light-duty-interior-milano-grey-door.html"
+  },
+  "door - Deep Moulded Pre-painted Light Duty Interior Tudor 6...": {
+    "image": "https://www.cashbuild.co.za/shop/33093-home_default/deep-moulded-pre-painted-light-duty-interior-tudor-6-panel-grey-door.jpg",
+    "price": 575.95,
+    "url": "https://www.cashbuild.co.za/shop/wooden-doors/18201-deep-moulded-pre-painted-light-duty-interior-tudor-6-panel-grey-door.html"
+  },
+  "door - Door Aluminium Stack Folding 1.8m Bronze Left Hand Open out": {
+    "image": "https://www.cashbuild.co.za/shop/32745-home_default/door-aluminium-stack-folding-18m-bronze-left-hand-open-out.jpg",
+    "price": 9699.95,
+    "url": "https://www.cashbuild.co.za/shop/sliding-doors/17164-door-aluminium-stack-folding-18m-bronze-left-hand-open-out-2050000070150.html"
+  },
+  "door - Door Aluminium Stack Folding 1.8m Bronze Right Hand Open out": {
+    "image": "https://www.cashbuild.co.za/shop/32195-home_default/door-aluminium-stack-folding-18m-bronze-right-hand-open-out.jpg",
+    "price": 9699.95,
+    "url": "https://www.cashbuild.co.za/shop/sliding-doors/17165-door-aluminium-stack-folding-18m-bronze-right-hand-open-out-2050000070167.html"
+  },
+  "door - Door Horizontal Wide Groove Sd60": {
+    "image": "https://www.cashbuild.co.za/shop/35441-home_default/door-horizontal-wide-groove-sd60.jpg",
+    "price": 1874.95,
+    "url": "https://www.cashbuild.co.za/shop/wooden-doors/19636-door-horizontal-wide-groove-sd60-2050000043628.html"
+  },
+  "door - Door Mixed Timber Safari Eco Pivot Set": {
+    "image": "https://www.cashbuild.co.za/shop/22062-home_default/door-mixed-timber-safari-eco-pivot-set.jpg",
+    "price": 4649.95,
+    "url": "https://www.cashbuild.co.za/shop/wooden-doors/2686-door-mixed-timber-safari-eco-pivot-set-2050000055317.html"
+  },
+  "door - Door Steel Leaf ONLY with Mortice lock, Open In, Left Hand": {
+    "image": "https://www.cashbuild.co.za/shop/34810-home_default/cdoor-steel-leaf-only-m-lock-o-i-lh.jpg",
+    "price": 697.95,
+    "url": "https://www.cashbuild.co.za/shop/door-frames-steel/8821-cdoor-steel-leaf-only-m-lock-o-i-lh-2050000009167.html"
+  },
+  "door - Door Wedge, Rubber, Black": {
+    "image": "https://www.cashbuild.co.za/shop/14828-home_default/door-wedge-rubber-black.jpg",
+    "price": 12.95,
+    "url": "https://www.cashbuild.co.za/shop/cabinet-fittings/4948-door-wedge-rubber-black-6002297005458.html"
+  },
+  "door - Door Wood Champion 8 Panel Flat": {
+    "image": "https://www.cashbuild.co.za/shop/35442-home_default/door-wood-champion-8-panel-flat.jpg",
+    "price": 1154.95,
+    "url": "https://www.cashbuild.co.za/shop/wooden-doors/19637-door-wood-champion-8-panel-flat-6003450203810.html"
+  },
+  "door - Door Wood F&l O/b Braced Lc": {
+    "image": "https://www.cashbuild.co.za/shop/32594-home_default/door-wood-fl-o-b-braced-lc.jpg",
+    "price": 1680.95,
+    "url": "https://www.cashbuild.co.za/shop/wooden-doors/16156-door-wood-fl-o-b-braced-lc-2050000032493.html"
+  },
+  "door - Door Wood Rustic Gold Std": {
+    "image": "https://www.cashbuild.co.za/shop/35853-home_default/door-wood-rustic-gold-std.jpg",
+    "price": 2004.95,
+    "url": "https://www.cashbuild.co.za/shop/wooden-doors/18919-door-wood-rustic-gold-std.html"
+  },
+  "door - Doorframe Saligna Econo 102 X 45": {
+    "image": "https://www.cashbuild.co.za/shop/32562-home_default/doorframe-saligna-econo-10245.jpg",
+    "price": 584.95,
+    "url": "https://www.cashbuild.co.za/shop/door-frames-wood/16157-doorframe-saligna-econo-10245-6009623280060.html"
+  },
+  "door - Eureka Doorknob Screw 4x60mm Quantity:10": {
+    "image": "https://www.cashbuild.co.za/shop/15861-home_default/eureka-doorknob-screw-4x60mm-quantity-10.jpg",
+    "price": 25.95,
+    "url": "https://www.cashbuild.co.za/shop/screws/3594-eureka-doorknob-screw-4x60mm-quantity-10-6002919080429.html"
+  },
+  "door - Matty Door, Stone Grey, 2550, Woodgrain": {
+    "image": "https://www.cashbuild.co.za/shop/35929-home_default/matty-door-stone-grey-2550-woodgrain.jpg",
+    "price": 2179.95,
+    "url": "https://www.cashbuild.co.za/shop/garage-doors/19785-matty-door-stone-grey-2550-woodgrain-6001216788274.html"
+  },
+  "door - Medium Duty San Martino Door": {
+    "image": "https://www.cashbuild.co.za/shop/32564-home_default/medium-duty-san-martino-door.jpg",
+    "price": 669.95,
+    "url": "https://www.cashbuild.co.za/shop/wooden-doors/17461-medium-duty-san-martino-door-6009613061754.html"
+  },
+  "door - Steel Door Frame Heavy Duty Left Hand": {
+    "image": "https://www.cashbuild.co.za/shop/29456-home_default/steel-door-frame-heavy-duty.jpg",
+    "price": 489.95,
+    "url": "https://www.cashbuild.co.za/shop/door-frames-steel/8850-steel-door-frame-heavy-duty-2050000006562.html"
+  },
+  "door - Steel Door Frame Heavy Duty Right Hand": {
+    "image": "https://www.cashbuild.co.za/shop/29462-home_default/steel-door-frame-heavy-duty.jpg",
+    "price": 489.95,
+    "url": "https://www.cashbuild.co.za/shop/door-frames-steel/8851-steel-door-frame-heavy-duty-2050000006579.html"
+  },
+  "door - Steel Door Frame Left Hand": {
+    "image": "https://www.cashbuild.co.za/shop/29441-home_default/steel-door-frame.jpg",
+    "price": 245.95,
+    "url": "https://www.cashbuild.co.za/shop/door-frames-steel/8848-steel-door-frame-2050000006517.html"
+  },
+  "door - Steel Door Frame Right Hand": {
+    "image": "https://www.cashbuild.co.za/shop/29447-home_default/steel-door-frame.jpg",
+    "price": 245.95,
+    "url": "https://www.cashbuild.co.za/shop/door-frames-steel/8849-steel-door-frame-2050000006524.html"
+  },
+  "door - Steel Door Frame Stable Heavy Duty Left Hand": {
+    "image": "https://www.cashbuild.co.za/shop/29484-home_default/steel-door-frame-stable.jpg",
+    "price": 564.95,
+    "url": "https://www.cashbuild.co.za/shop/door-frames-steel/8852-steel-door-frame-stable-2050000006487.html"
+  },
+  "door - Steel Frame & Door Combination Left Hand": {
+    "image": "https://www.cashbuild.co.za/shop/29513-home_default/steel-frame-door-combination.jpg",
+    "price": 1249.95,
+    "url": "https://www.cashbuild.co.za/shop/door-frames-steel/8854-steel-frame-door-combination-2050000009365.html"
+  },
+  "door - Wooden Door 8 Panel Hardwood": {
+    "image": "https://www.cashbuild.co.za/shop/35437-home_default/wooden-door-8-panel-hardwood.jpg",
+    "price": 1184.95,
+    "url": "https://www.cashbuild.co.za/shop/wooden-doors/19632-wooden-door-8-panel-hardwood-2050000014314.html"
+  },
+  "door - Wooden Door 8 Panel Mixed Timber": {
+    "image": "https://www.cashbuild.co.za/shop/35436-home_default/wooden-door-8-panel-mixed-timber.jpg",
+    "price": 1069.95,
+    "url": "https://www.cashbuild.co.za/shop/wooden-doors/19631-wooden-door-8-panel-mixed-timber-6009613060672.html"
+  },
+  "door - Wooden Door Frame Hardwood": {
+    "image": "https://www.cashbuild.co.za/shop/22866-home_default/wooden-door-frame-hardwood.jpg",
+    "price": 747.95,
+    "url": "https://www.cashbuild.co.za/shop/door-frames-wood/9414-wooden-door-frame-hardwood-6009689118635.html"
+  },
+  "door - Wooden Door Hardwood Elephant": {
+    "image": "https://www.cashbuild.co.za/shop/34030-home_default/wooden-door-hardwood-elephant.jpg",
+    "price": 2359.95,
+    "url": "https://www.cashbuild.co.za/shop/wooden-doors/2700-wooden-door-hardwood-elephant-6009613061365.html"
+  },
+  "door - Wooden Door Medium Duty Consul": {
+    "image": "https://www.cashbuild.co.za/shop/22164-home_default/wooden-door-medium-duty-consul.jpg",
+    "price": 509.95,
+    "url": "https://www.cashbuild.co.za/shop/wooden-doors/12626-wooden-door-medium-duty-consul-6009613060788.html"
+  },
+  "door - Wooden Door Medium Duty Elephant": {
+    "image": "https://www.cashbuild.co.za/shop/35440-home_default/wooden-door-medium-duty-elephant.jpg",
+    "price": 519.95,
+    "url": "https://www.cashbuild.co.za/shop/wooden-doors/19635-wooden-door-medium-duty-elephant-2050000043611.html"
+  },
+  "door - Wooden Door Medium Duty Melody": {
+    "image": "https://www.cashbuild.co.za/shop/35435-home_default/wooden-door-medium-duty-melody.jpg",
+    "price": 504.95,
+    "url": "https://www.cashbuild.co.za/shop/wooden-doors/19630-wooden-door-medium-duty-melody-6009613064960.html"
+  },
+  "door - Wooden Door Medium Duty Ruby": {
+    "image": "https://www.cashbuild.co.za/shop/35438-home_default/wooden-door-medium-duty-ruby.jpg",
+    "price": 499.95,
+    "url": "https://www.cashbuild.co.za/shop/wooden-doors/19633-wooden-door-medium-duty-ruby-6009613064977.html"
+  },
+  "door - Wooden Door Medium Duty Traditional": {
+    "image": "https://www.cashbuild.co.za/shop/35439-home_default/wooden-door-medium-duty-traditional.jpg",
+    "price": 504.95,
+    "url": "https://www.cashbuild.co.za/shop/wooden-doors/19634-wooden-door-medium-duty-traditional-6009613065035.html"
+  },
+  "door - Wooden Door Print Hardboard Exposed Edges": {
+    "image": "https://www.cashbuild.co.za/shop/27726-home_default/wooden-door-print-hardboard-exposed-edges.jpg",
+    "price": 429.95,
+    "url": "https://www.cashbuild.co.za/shop/wooden-doors/15629-wooden-door-print-hardboard-exposed-edges-6009613060474.html"
+  },
+  "door - Wooden Door Saligna Solidor Back to Back": {
+    "image": "https://www.cashbuild.co.za/shop/25371-home_default/wooden-door-saligna-solidor-back-to-back.jpg",
+    "price": 1606.95,
+    "url": "https://www.cashbuild.co.za/shop/wooden-doors/12775-wooden-door-saligna-solidor-back-to-back-6009613060726.html"
+  },
+  "door - Wooden Door Toledo Deep Moulded": {
+    "image": "https://www.cashbuild.co.za/shop/22362-home_default/wooden-door-toledo-deep-moulded.jpg",
+    "price": 504.95,
+    "url": "https://www.cashbuild.co.za/shop/wooden-doors/12634-wooden-door-toledo-deep-moulded.html"
+  },
+  "roof - Champion Roof Paint Black 20l": {
+    "image": "https://www.cashbuild.co.za/shop/35564-home_default/champion-roof-paint-black-20l.jpg",
+    "price": 799.95,
+    "url": "https://www.cashbuild.co.za/shop/roof-paint/6748-champion-roof-paint-black-20l-6009607764920.html"
+  },
+  "roof - Champion Roof Paint Black 5l": {
+    "image": "https://www.cashbuild.co.za/shop/35562-home_default/champion-roof-paint-black-5l.jpg",
+    "price": 257.95,
+    "url": "https://www.cashbuild.co.za/shop/roof-paint/6749-champion-roof-paint-black-5l-6009607764913.html"
+  },
+  "roof - Champion Roof Paint Burgundy 20l": {
+    "image": "https://www.cashbuild.co.za/shop/35567-home_default/champion-roof-paint-burgundy-20l.jpg",
+    "price": 794.95,
+    "url": "https://www.cashbuild.co.za/shop/roof-paint/6750-champion-roof-paint-burgundy-20l-6009512507100.html"
+  },
+  "roof - Champion Roof Paint Burgundy 5l": {
+    "image": "https://www.cashbuild.co.za/shop/35565-home_default/champion-roof-paint-burgundy-5l.jpg",
+    "price": 262.95,
+    "url": "https://www.cashbuild.co.za/shop/roof-paint/6751-champion-roof-paint-burgundy-5l-6009512507094.html"
+  },
+  "roof - Champion Roof Paint Charcoal 20L": {
+    "image": "https://www.cashbuild.co.za/shop/35615-home_default/champion-roof-paint-charcoal-20l.jpg",
+    "price": 799.95,
+    "url": "https://www.cashbuild.co.za/shop/roof-paint/19371-champion-roof-paint-charcoal-20l.html"
+  },
+  "roof - Champion Roof Paint Charcoal 5L": {
+    "image": "https://www.cashbuild.co.za/shop/35614-home_default/champion-roof-paint-charcoal-5l.jpg",
+    "price": 262.95,
+    "url": "https://www.cashbuild.co.za/shop/roof-paint/19370-champion-roof-paint-charcoal-5l.html"
+  },
+  "roof - Champion Roof Paint Terra Cotta 5l": {
+    "image": "https://www.cashbuild.co.za/shop/35554-home_default/champion-roof-paint-terracotta-5l.jpg",
+    "price": 257.95,
+    "url": "https://www.cashbuild.co.za/shop/roof-paint/6755-champion-roof-paint-terracotta-5l-6009607764876.html"
+  },
+  "roof - Champion Roof Paint Venetian Red 20l": {
+    "image": "https://www.cashbuild.co.za/shop/35560-home_default/champion-roof-paint-venetian-red-20l.jpg",
+    "price": 799.95,
+    "url": "https://www.cashbuild.co.za/shop/roof-paint/6756-champion-roof-paint-venetian-red-20l-6009607764906.html"
+  },
+  "roof - Champion Roof Paint Venetian Red 5l": {
+    "image": "https://www.cashbuild.co.za/shop/35558-home_default/champion-roof-paint-venetian-red-5l.jpg",
+    "price": 257.95,
+    "url": "https://www.cashbuild.co.za/shop/roof-paint/6757-champion-roof-paint-venetian-red-5l-6009607764890.html"
+  },
+  "roof - Concrete Roof Ridge Tapered": {
+    "image": "https://www.cashbuild.co.za/shop/20789-home_default/concrete-roof-ridge-tapered.jpg",
+    "price": 39.95,
+    "url": "https://www.cashbuild.co.za/shop/roof-tiles/12212-concrete-roof-ridge-tapered-2050000020162.html"
+  },
+  "roof - Concrete Roof Ridge V": {
+    "image": "https://www.cashbuild.co.za/shop/20785-home_default/concrete-roof-ridge-v.jpg",
+    "price": 39.95,
+    "url": "https://www.cashbuild.co.za/shop/roof-tiles/12217-concrete-roof-ridge-v-2050000020216.html"
+  },
+  "roof - Double Roman Roof Tile": {
+    "image": "https://www.cashbuild.co.za/shop/20964-home_default/double-roman-roof-tile.jpg",
+    "price": 8.8,
+    "url": "https://www.cashbuild.co.za/shop/roof-tiles/12228-double-roman-roof-tile-2050000020353.html"
+  },
+  "roof - Galvanized Roof Sheeting Corrugated Profile 6.0m": {
+    "image": "https://www.cashbuild.co.za/shop/21022-home_default/galvanised-roof-sheeting-corrugated-profile.jpg",
+    "price": 329.95,
+    "url": "https://www.cashbuild.co.za/shop/corrugated-iron/6335-galvanised-roof-sheeting-corrugated-profile-2050000003998.html"
+  },
+  "roof - Galvanized Roof Sheeting IBR Profile 4.2mx0.4mm Z100": {
+    "image": "https://www.cashbuild.co.za/shop/21103-home_default/galvanised-roof-sheeting-ibr-profile.jpg",
+    "price": 379.95,
+    "url": "https://www.cashbuild.co.za/shop/ibr/6344-galvanised-roof-sheeting-ibr-profile-2050000002380.html"
+  },
+  "roof - Galvanized Roof Sheeting IBR Profile 4.8mx0.4mm Z100": {
+    "image": "https://www.cashbuild.co.za/shop/21104-home_default/galvanised-roof-sheeting-ibr-profile.jpg",
+    "price": 369.95,
+    "url": "https://www.cashbuild.co.za/shop/ibr/6345-galvanised-roof-sheeting-ibr-profile-2050000002403.html"
+  },
+  "roof - Galvanized Roof Sheeting IBR Profile 5.4mx0.4mm Z100": {
+    "image": "https://www.cashbuild.co.za/shop/21105-home_default/galvanised-roof-sheeting-ibr-profile.jpg",
+    "price": 415.95,
+    "url": "https://www.cashbuild.co.za/shop/ibr/6346-galvanised-roof-sheeting-ibr-profile-2050000002267.html"
+  },
+  "roof - Galvanized Roof Sheeting IBR Profile 6.0mx0.4mm Z100": {
+    "image": "https://www.cashbuild.co.za/shop/21106-home_default/galvanised-roof-sheeting-ibr-profile.jpg",
+    "price": 537.95,
+    "url": "https://www.cashbuild.co.za/shop/ibr/6347-galvanised-roof-sheeting-ibr-profile-2050000002106.html"
+  },
+  "roof - Galvanized Roof Sheeting IBR Profile 6.6mx0.4mm Z100": {
+    "image": "https://www.cashbuild.co.za/shop/21107-home_default/galvanised-roof-sheeting-ibr-profile.jpg",
+    "price": 495.95,
+    "url": "https://www.cashbuild.co.za/shop/ibr/6348-galvanised-roof-sheeting-ibr-profile-2050000002113.html"
+  },
+  "roof - Structural Timber SABS Untreated 38x38 4.2m": {
+    "image": "https://www.cashbuild.co.za/shop/35033-home_default/structural-timber-sabs-untreated-38x38-42m.jpg",
+    "price": 44.95,
+    "url": "https://www.cashbuild.co.za/shop/timber/9561-structural-timber-sabs-untreated-38x38-42m-2050000006883.html"
+  },
+  "roof - Structural Timber SABS Untreated 38x38 4.8m": {
+    "image": "https://www.cashbuild.co.za/shop/35044-home_default/structural-timber-sabs-untreated-38x38-48m.jpg",
+    "price": 54.95,
+    "url": "https://www.cashbuild.co.za/shop/timber/9562-structural-timber-sabs-untreated-38x38-48m-2050000006890.html"
+  },
+  "roof - Structural Timber SABS Untreated 38x38 6.0m": {
+    "image": "https://www.cashbuild.co.za/shop/35049-home_default/structural-timber-sabs-untreated-38x38-60m.jpg",
+    "price": 64.95,
+    "url": "https://www.cashbuild.co.za/shop/timber/9563-structural-timber-sabs-untreated-38x38-60m-2050000006913.html"
+  },
+  "roof - Structural Timber SABS Untreated 38x38 6.6m": {
+    "image": "https://www.cashbuild.co.za/shop/35057-home_default/structural-timber-sabs-untreated-38x38-66m.jpg",
+    "price": 72.95,
+    "url": "https://www.cashbuild.co.za/shop/timber/9564-structural-timber-sabs-untreated-38x38-66m-2050000006920.html"
+  },
+  "roof - Structural Timber SABS Untreated 50x76 3.6m": {
+    "image": "https://www.cashbuild.co.za/shop/35064-home_default/structural-timber-sabs-untreated-50x76-36m.jpg",
+    "price": 109.95,
+    "url": "https://www.cashbuild.co.za/shop/timber/9565-structural-timber-sabs-untreated-50x76-36m-2050000006951.html"
+  },
+  "roof - Structural Timber SABS Untreated 50x76 4.2m": {
+    "image": "https://www.cashbuild.co.za/shop/35077-home_default/structural-timber-sabs-untreated-50x76-42m.jpg",
+    "price": 122.95,
+    "url": "https://www.cashbuild.co.za/shop/timber/9566-structural-timber-sabs-untreated-50x76-42m-2050000006968.html"
+  },
+  "roof - Structural Timber SABS Untreated 50x76 4.8m": {
+    "image": "https://www.cashbuild.co.za/shop/35086-home_default/structural-timber-sabs-untreated-50x76-48m.jpg",
+    "price": 134.95,
+    "url": "https://www.cashbuild.co.za/shop/timber/9567-structural-timber-sabs-untreated-50x76-48m-2050000006975.html"
+  },
+  "roof - Structural Timber SABS Untreated 50x76 6.0m": {
+    "image": "https://www.cashbuild.co.za/shop/35095-home_default/structural-timber-sabs-untreated-50x76-60m.jpg",
+    "price": 159.95,
+    "url": "https://www.cashbuild.co.za/shop/timber/9568-structural-timber-sabs-untreated-50x76-60m-2050000006999.html"
+  }
 }
